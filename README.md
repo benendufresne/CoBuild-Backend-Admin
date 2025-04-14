@@ -75,7 +75,7 @@ npm run local
 
 # localhost swagger URL
 
-- http://localhost:3003/admin/documentation
+- http://localhost:5000/admin/documentation
 
 ### Basic Setup End
 
